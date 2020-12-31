@@ -27,10 +27,6 @@
 
 ---
 
-[![Spotify](https://n5e5hj0u1q7zx3sir26h8zvk6.vercel.app/api/spotify)](https://open.spotify.com/user/n5e5hj0u1q7zx3sir26h8zvk6)
-
----
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiazt&show_icons=true&theme=radical">
 
 ---
