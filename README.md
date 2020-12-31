@@ -17,7 +17,6 @@
 <br />
 
 ### My Skills:
-
 [<img align="left" alt="HTML" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS" title="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="PHP" title="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][github]
@@ -28,7 +27,7 @@
 
 ---
 
-![hadiazt's github stats](https://github-readme-stats.vercel.app/api?username=hadiazt&show_icons=true&theme=radical)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiazt&show_icons=true&theme=radical">]
 
 ---
 
