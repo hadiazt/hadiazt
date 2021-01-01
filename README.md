@@ -13,10 +13,10 @@
 </br>  
 
  ```javascript
-  const Ehsan = {
-  	pronouns: ['Exxon', 'BoyCode', 'He'],
-    	Languages: ['Javascript', 'TypeScript', 'PHP'],
-    	Tools: ['VSCode', 'Node', 'DiscordJS'],
+  const Hadi = {
+  	pronouns: ['Hadi.Az', 'hado', 'He'],
+    	Languages: ['Javascript', 'PHP', 'HTML', 'CSS'],
+    	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
 	    Games: ['CS:GO', 'Valorant', 'R6'],
 	    WatchingAnime: true,
