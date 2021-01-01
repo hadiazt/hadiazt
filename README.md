@@ -14,13 +14,14 @@
 
  ```javascript
   const Hadi = {
-  	pronouns: ['Hadi.Az', 'hado', 'He'],
+  	pronouns: ['Hadi.Az', 'hado', 'Choso'],
     	Languages: ['Javascript', 'PHP', 'HTML', 'CSS'],
     	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
-	    Games: ['CS:GO', 'Valorant', 'R6'],
-	    WatchingAnime: true,
-	    TVSeries: true
+	    FavSingers: ['Halsey', 'BlackPink', 'R6'],
+	    YouTube: true,
+	    WatchingKDrama: true,
+	    TVSeries: false
 	],  
     	Projects: {
     	    SetarBot: "a Music Bot Created for Discord",
