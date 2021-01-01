@@ -37,7 +37,7 @@
 <a href="mailto:azarihadi81@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
 <a href="http://t.me/hadiazt"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
 <a href="https://www.instagram.com/hadi._.azt/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
-<a href="https://discord.bio/p/hadiaz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" width="90"></a>
+<a href="https://discord.bio/p/hadiaz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" width="22"></a>
 </div>
 
 <h2>Want to support my team ?</h2>
