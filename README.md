@@ -18,7 +18,7 @@
     	Languages: ['Javascript', 'PHP', 'HTML', 'CSS'],
     	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
-	    FavSingers: ['Halsey', 'BlackPink', 'R6'],
+	    FavSingers: ['Halsey', 'BlackPink', 'BTS'],
 	    YouTube: true,
 	    WatchingKDrama: true,
 	    TVSeries: false
