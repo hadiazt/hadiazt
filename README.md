@@ -26,7 +26,7 @@
     	    SetarBot: "a Music Bot Created for Discord",
             Cicada: "Biggest Persian Discord Community"
     	},
-    	website: "<a href="#">http://hadi-az.ir</a>",
+    	website: "http://hadi-az.ir",
          website: "https://hadi.js.org"
   }
 ```
