@@ -19,6 +19,7 @@
     	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
 	    FavSingers: ['Halsey', 'BlackPink', 'BTS'],
+	    TikTok: true,
 	    YouTube: true,
 	    WatchingKDrama: true,
 	    TVSeries: false
