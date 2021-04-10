@@ -27,7 +27,7 @@
     	Projects: {
     	    SetarBot: "a Music Bot Created for Discord",
             Cicada: "Biggest Persian Discord Community",
-	    D&C Center: "Biggest Persian Developers Discord Server"
+	    D\&C Center: "Biggest Persian Developers Discord Server"
     	},
     	website: "http://hadi-az.ir",
          website: "https://hadi.js.org"
