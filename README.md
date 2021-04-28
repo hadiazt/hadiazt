@@ -4,7 +4,7 @@
 </h2>
 </div>
 <em>Developer of <a href="http://3tarbot.ir/english/">SeTar-Team</a></em></br>
-<em>Founder of <a href="http://pdbl.ir/">PDBL</a></em>
+<em>Founder of <a href="https://pdbl.ir/">PDBL</a></em>
 
 
 <img width="270" height="420px" align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=n5e5hj0u1q7zx3sir26h8zvk6&cover_image=true&theme=default">
