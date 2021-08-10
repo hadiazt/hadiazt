@@ -4,7 +4,7 @@
 </h2>
 </div>
 <em>Developer of <a href="http://3tarbot.ir/english/">SeTar-Team</a></em></br>
-<em>Founder of <a href="https://pdbl.ir/">PDBL</a></em>
+<em>Founder of <a href="https://pdbl.ir/">PDBL</a> & <a href="https://discord.gg/6WtJZAWEfR">SoSiS Bot</em>
 
 
 <img width="270" height="420px" align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=n5e5hj0u1q7zx3sir26h8zvk6&cover_image=true&theme=default">
@@ -26,10 +26,10 @@
 	    TVSeries: false
 	],  
     	Projects: {
-    	    SetarBot: "a Music Bot Created for Discord (https://discord.gg/GBDkr9T)",
-	    SoSiS:"a Fun Discord Bot (https://discord.gg/6WtJZAWEfR)",
-	    PDBL:"a Small Discord Bot list (https://pdbl.ir)",
-             Cicada: "Biggest Persian Discord Community",
+    	    SetarBot: "a Music Bot Created for Discord",
+	    SoSiS:"a Fun Discord Bot",
+	    PDBL:"a Small Discord Bot list",
+            Cicada: "Biggest Persian Discord Community",
 	    xray™: "Biggest Persian Developers Discord Server",
 	    harmony: "Biggest Persian Discord Community"
     	},
