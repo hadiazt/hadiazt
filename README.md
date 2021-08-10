@@ -27,6 +27,7 @@
 	],  
     	Projects: {
     	    SetarBot: "a Music Bot Created for Discord",
+	    SoSiS:"a Fun Discord Bot"
              Cicada: "Biggest Persian Discord Community",
 	    secret™: "Biggest Persian Developers Discord Server",
 	    harmony: "Biggest Persian Discord Community"
