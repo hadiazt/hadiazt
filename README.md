@@ -26,8 +26,9 @@
 	    TVSeries: false
 	],  
     	Projects: {
-    	    SetarBot: "a Music Bot Created for Discord",
-	    SoSiS:"a Fun Discord Bot"
+    	    SetarBot: "a Music Bot Created for Discord (https://discord.gg/GBDkr9T)",
+	    SoSiS:"a Fun Discord Bot (https://discord.gg/6WtJZAWEfR)",
+	    PDBL:"a Small Discord Bot list (https://pdbl.ir)",
              Cicada: "Biggest Persian Discord Community",
 	    secret™: "Biggest Persian Developers Discord Server",
 	    harmony: "Biggest Persian Discord Community"
