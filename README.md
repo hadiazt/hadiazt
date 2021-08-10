@@ -30,7 +30,7 @@
 	    SoSiS:"a Fun Discord Bot (https://discord.gg/6WtJZAWEfR)",
 	    PDBL:"a Small Discord Bot list (https://pdbl.ir)",
              Cicada: "Biggest Persian Discord Community",
-	    secret™: "Biggest Persian Developers Discord Server",
+	    xray™: "Biggest Persian Developers Discord Server",
 	    harmony: "Biggest Persian Discord Community"
     	},
     	website: "http://hadi-az.ir",
