@@ -4,7 +4,7 @@
 </h2>
 </div>
 <em>Developer of <a href="http://3tarbot.ir/english/">SeTar-Team</a></em></br>
-<em>Founder of <a href="https://pdbl.ir/">PDBL</a> & <a href="https://discord.gg/6WtJZAWEfR">SoSiS Bot</a></em>
+<em>Founder of <a href="https://pdbl.ir/">PDBL</a> & <a href="https://discord.gg/6WtJZAWEfR">SoSiS Bot</a> & <a href="https://www.npmjs.com/package/random-pic.js">random-pic.js</a></em>
 
 
 </br>
