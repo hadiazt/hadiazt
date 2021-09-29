@@ -45,7 +45,7 @@
 </div>
 
 <h2>Want to support my team ?</h2>
-<div align="center"><a href="https://coffeebede.ir/buycoffee/hadi.az"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></div>
+<div style="width:150px; height:150px;" align="center"><a href="https://coffeebede.ir/buycoffee/hadi.az"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></div>
 
 	
 <h3 align="center"> 
