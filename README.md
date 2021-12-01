@@ -55,5 +55,3 @@ Visitors<br>
 <img src="https://profile-counter.glitch.me/hadiazt/count.svg" />
 </h3>
 <br>												     
-
-<div align="center"><font size="2px;">© Created By <a href="https://github.com/EhsanFox">EhsanFox</a> For <a href"http://3tarbot.ir">Team</a></font></div>
