@@ -42,10 +42,8 @@
 <a href="mailto:azarihadi81@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
 <a href="http://t.me/hadiazt"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
 <a href="https://www.instagram.com/hadi._.azt/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
+<a href="https://coffeebede.ir/buycoffee/hadi.az"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="90" /></a>
 </div>
-
-<h2>Want to support my team ?</h2>
-<div style="width:150px; height:150px;" align="center"><a href="https://coffeebede.ir/buycoffee/hadi.az"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></div>
 
 	
 <h3 align="center"> 
