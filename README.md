@@ -19,17 +19,7 @@
 	    YouTube: true,
 	    WatchingKDrama: true,
 	    TVSeries: false
-	],  
-    	Projects: {
-    	    SetarBot: "a Music Bot Created for Discord",
-	    SoSiS:"a Fun Discord Bot",
-	    PDBL:"a Small Discord Bot list",
-            Cicada: "Biggest Persian Discord Community",
-	    xray™: "Biggest Persian Developers Discord Server",
-	    harmony: "Biggest Persian Discord Community"
-    	},
-    	website: "http://hadi-az.ir",
-         website: "https://hadi.js.org"
+	]
   }
 ```
 
