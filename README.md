@@ -39,6 +39,6 @@
 <br>
 <br>
 Visitors<br>
-<img src="https://profile-counter.glitch.me/hadiazt/count.svg" />
+<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
 </h3>
 <br>												     
