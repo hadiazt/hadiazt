@@ -22,6 +22,8 @@
 	]
   }
 ```
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiazt&theme=dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&hide=css&theme=dark"></p>
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
