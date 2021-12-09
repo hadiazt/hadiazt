@@ -4,41 +4,114 @@
 </h2>
 </div>
 
-</br>
-</br>
-</br>  
+
+<div align="center">
+<h4 align="center"><samp> NODE.JS Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
+</div>
+
+<br>
+
+<p align="center">
+    <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discord.com/invite/6vhPVYkNU9"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=5459a7" style="border-radius:15px" alt="Discord"></a>
+    <a href="mailto:azarihadi81@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=5459a7" alt="Gmail" style="border-radius:15px"></a>
+</p>
+
+<br><br>
+
+<h1 align="center">
+    Programming Language
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=5459a7" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
+    <br/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7" alt="CSS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/csharp-171717?style=for-the-badge&logo=csharp&logoColor=5459a7" alt="csharp" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=5459a7" alt="PHP" style="border-radius:15px"/>
+</div>
+
+<br><br>
+
+<h1 align="center">
+    Tool And Technology
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=5459a7" alt="Electron.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/>     
+    <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/> 
+    <br/>
+    <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=5459a7" alt="Heroku" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=5459a7" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=5459a7" alt="Markdown" style="border-radius:15px"/>
+</div>
+
+<br><br>
+
+
+<h1 align="center">
+    GitHub Stats
+</h1>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiazt&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiazt&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
+
+<br/>
+
+<div align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hadiazt&custom_title=hadiazt's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+</div>
+
+<br/><br/>
+
+<h1 align="center">
+    Visitors
+</h1>
+
+<h3 align="center"> 
+<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
+</h3>
+<br>
 
  ```javascript
-  const Hadi = {
-  	pronouns: ['Hadi.Az', 'hado', 'Choso'],
-    	Languages: ['Javascript', 'PHP', 'HTML', 'CSS'],
-    	Tools: ['VSCode', 'Node', 'Discord.jS'],
-    	hobbies:[
-	    FavSingers: ['Halsey', 'BlackPink', 'BTS'],
+  const FunyFacts = {
+	    KPOP: true,
 	    TikTok: true,
 	    YouTube: true,
 	    WatchingKDrama: true,
-	    TVSeries: false
-	]
+	    TVSeries: false,
+        "Operating System":"windows",
+        LANGUES:[
+            ENGLISH,
+            PERSIAN,
+            KOREAIN
+        ]
   }
+    const friendDB = require('FRIENDS.json');
+    var friend = friendDB.all()
+
+    if(friend.ignored.me) {
+        friendDB.remove(friend)
+    }
+    
 ```
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiazt&theme=dark"></p>
 
-<h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
-
-<div align="center">
-<a href="mailto:azarihadi81@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
-<a href="http://t.me/hadiazt"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
-<a href="https://www.instagram.com/hadi._.azt/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
-</br>
-<a href="https://coffeebede.ir/buycoffee/hadi.az"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="120" /></a>
+<div align="center"> 
+    <img align="center" src="https://discord.c99.nl/widget/theme-1/490519932292038659.png" alt=""/>
 </div>
-
-	
-<h3 align="center"> 
-<br>
-<br>
-Visitors<br>
-<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
-</h3>
-<br>												     
