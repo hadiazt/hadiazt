@@ -97,7 +97,7 @@
 	    WatchingKDrama: true,
 	    TVSeries: false,
         "Operating System":"windows",
-        LANGUES: [ ENGLISH, PERSIAN, KOREAN ]
+        LANGUAES: [ ENGLISH, PERSIAN, KOREAN ]
   }
     const friendDB = require('FRIENDS.json');
     var friend = friendDB.all()
