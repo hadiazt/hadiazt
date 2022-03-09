@@ -96,7 +96,7 @@
 	    YouTube: true,
 	    WatchingKDrama: true,
 	    TVSeries: false,
-        "Operating System":"windows",
+        Operating-System:[ LINUX , WINDOWS],
         LANGUAES: [ ENGLISH, PERSIAN, KOREAN ]
   }
     const friendDB = require('FRIENDS.json');
