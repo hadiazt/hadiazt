@@ -1,3 +1,4 @@
+
 <div align="center">
 <h2>Hi, I'm Hadi.Az 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
@@ -89,6 +90,30 @@
 </h3>
 <br>
 
+<h1 align="center">
+    Donate ?!
+</h1>
+<div>
+
+BitCoin : 
+```
+bc1q54925u3m3th6kgtxltvlgjhm8qz6xw3g23lpy9
+```
+Tether :
+```
+TXX1QFofW33NfuTufQNGSWgUcPTDw1XCyk
+```
+Ethereum : 
+```
+0xfb8cffb0f626c5c5cb57fcd62636d39da5f6b0ef
+```
+
+
+</div>
+
+
+<h1></h1>
+
  ```javascript
   const FunyFacts = {
 	    KPOP: true,
@@ -111,3 +136,6 @@
 <div align="center"> 
     <img align="center" src="https://discord.c99.nl/widget/theme-1/490519932292038659.png" alt=""/>
 </div>
+
+
+
