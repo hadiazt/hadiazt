@@ -75,7 +75,7 @@
 <br/>
 
 <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hadiazt&custom_title=hadiazt's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hadiazt&custom_title=hadiazt's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=falae"  alt=""/>     </a>
 </div>
 
 <br/><br/>
