@@ -133,9 +133,4 @@ Ethereum :
     
 ```
 
-<div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-1/490519932292038659.png" alt=""/>
-</div>
-
-
 
