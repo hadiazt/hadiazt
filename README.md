@@ -14,8 +14,7 @@
 
 <p align="center">
     <a href="https://instagram.com/hadi._.azt"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.com/invite/6vhPVYkNU9"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=5459a7" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:azarihadi81@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=5459a7" alt="Gmail" style="border-radius:15px"></a>
+    <a href="mailto:hadiazri30@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=5459a7" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
 <br><br>
@@ -25,14 +24,13 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=5459a7" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=5459a7" alt="JavaScript" style="border-radius:15px"/>							
+<img src="https://img.shields.io/badge/typescript-171717?style=for-the-badge&logo=typescript&logoColor=5459a7" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7" alt="PY" style="border-radius:15px"/>
     <br/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7" alt="CSS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/csharp-171717?style=for-the-badge&logo=csharp&logoColor=5459a7" alt="csharp" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=5459a7" alt="PHP" style="border-radius:15px"/>
 </div>
 
 <br><br>
@@ -42,9 +40,10 @@
 </h1>
 
 <div align="center">
+	    <img src="https://img.shields.io/badge/Next.js-171717.svg?style=for-the-badge&logo=Next.js&logoColor=5459a7" alt="Next.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=5459a7" alt="Electron.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/>     
-    <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/> 
+    <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Discord.js" style="border-radius:15px"/> 
     <br/>
     <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=5459a7" alt="Heroku" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=5459a7" alt="Git" style="border-radius:15px"/>
@@ -57,6 +56,10 @@
 <h1 align="center">
     GitHub Stats
 </h1>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+</div>
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
