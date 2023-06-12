@@ -61,9 +61,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
 </div>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
-</div>
 <br/>
 
 <div align="center">
