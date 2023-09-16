@@ -95,20 +95,6 @@
 </h1>
 <div>
 
-BitCoin : 
-```
-bc1q54925u3m3th6kgtxltvlgjhm8qz6xw3g23lpy9
-```
-Tether :
-```
-TXX1QFofW33NfuTufQNGSWgUcPTDw1XCyk
-```
-Ethereum : 
-```
-0xfb8cffb0f626c5c5cb57fcd62636d39da5f6b0ef
-```
-
-
 </div>
 
 
