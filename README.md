@@ -92,14 +92,6 @@
 </a></h3>
 <br>
 
-<h1 align="center">
-    Donate ?!
-</h1>
-<div>
-
-</div>
-
-
 <h1></h1>
 
  ```javascript
