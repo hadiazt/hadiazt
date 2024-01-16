@@ -87,8 +87,9 @@
 </h1>
 
 <h3 align="center"> 
-<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
-</h3>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hadiazt&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a></h3>
 <br>
 
 <h1 align="center">
