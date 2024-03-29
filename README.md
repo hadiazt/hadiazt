@@ -40,6 +40,7 @@
 </h1>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Nest.js-171717.svg?style=for-the-badge&logo=Nestjs&logoColor=5459a7" alt="Nest.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Next.js-171717.svg?style=for-the-badge&logo=Next.js&logoColor=5459a7" alt="Next.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/React-171717.svg?style=for-the-badge&logo=React&logoColor=5459a7" alt="React" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=5459a7" alt="Electron.js" style="border-radius:15px"/>
