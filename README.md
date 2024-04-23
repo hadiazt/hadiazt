@@ -1,13 +1,12 @@
-
 <div align="center">
 <h2>Hi, I'm Hadi.Az 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
 
-
 <div align="center">
-<h4 align="center"><samp> NODE.JS Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
+<h4 align="center"><samp>
+Node.js Developer - Front & Back end Developer - Bot Developer</samp></h4>
 </div>
 
 <br>
@@ -24,9 +23,8 @@
 </h1>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/typescript-171717?style=for-the-badge&logo=typescript&logoColor=5459a7" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=5459a7" alt="JavaScript" style="border-radius:15px"/>							
-<img src="https://img.shields.io/badge/typescript-171717?style=for-the-badge&logo=typescript&logoColor=5459a7" alt="TypeScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=5459a7" alt="PY" style="border-radius:15px"/>
     <br/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
@@ -46,15 +44,18 @@
     <br/>
     <img src="https://img.shields.io/badge/React-171717.svg?style=for-the-badge&logo=React&logoColor=5459a7" alt="React" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=5459a7" alt="Electron.js" style="border-radius:15px"/>
+    <br/>
     <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Discord.js" style="border-radius:15px"/> 
+    <img src="https://img.shields.io/badge/telegraf-171717.svg?style=for-the-badge&logo=telegram&logoColor=5459a7" alt="telegraf" style="border-radius:15px"/> 
     <br/>
     <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=5459a7" alt="Heroku" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=5459a7" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=5459a7" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/ubuntu-171717?style=for-the-badge&logo=ubuntu&logoColor=5459a7" alt="Ubuntu" style="border-radius:15px"/>  
     <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=5459a7" alt="Markdown" style="border-radius:15px"/>
 </div>
 
 <br><br>
-
 
 <h1 align="center">
     GitHub Stats
@@ -96,23 +97,20 @@
 
 <h1></h1>
 
- ```javascript
-  const FunyFacts = {
-	    KPOP: true,
-	    TikTok: true,
-	    YouTube: true,
-	    WatchingKDrama: true,
-	    TVSeries: false,
-        OperatingـSystem:[ LINUX , WINDOWS],
-        LANGUAES: [ ENGLISH, PERSIAN, KOREAN ]
-  }
-    const friendDB = require('FRIENDS.json');
-    var friend = friendDB.all()
+```javascript
+const FunyFacts = {
+  KPOP: true,
+  TikTok: true,
+  YouTube: true,
+  WatchingKDrama: true,
+  TVSeries: false,
+  OperatingـSystem: [LINUX, WINDOWS],
+  LANGUAES: [ENGLISH, PERSIAN, KOREAN],
+};
+const friendDB = require("FRIENDS.json");
+var friend = friendDB.all();
 
-    if(friend.ignored.me) {
-        friendDB.remove(friend)
-    }
-    
+if (friend.ignored.me) {
+  friendDB.remove(friend);
+}
 ```
-
-
