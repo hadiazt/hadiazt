@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/JSON-171717.svg?style=for-the-badge&logo=json&logoColor=ff073a" alt="JSON" style="border-radius:15px"/>
     <br/>
     <img src="https://img.shields.io/badge/tailwind-171717?style=for-the-badge&logo=tailwindcss&logoColor=ff073a" alt="tailwindcss" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/JSON-171717.svg?style=for-the-badge&logo=json&logoColor=ff073a" alt="bootstrap" style="border-radius:15px"/>    
+    <img src="https://img.shields.io/badge/bootstrap-171717.svg?style=for-the-badge&logo=bootstrap&logoColor=ff073a" alt="bootstrap" style="border-radius:15px"/>    
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/Electron.js-171717.svg?style=for-the-badge&logo=electron&logoColor=ff073a" alt="Electron.js" style="border-radius:15px"/>
