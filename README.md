@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=ff073a" alt="Express.js" style="border-radius:15px"/>     
     <img src="https://img.shields.io/badge/React-171717.svg?style=for-the-badge&logo=React&logoColor=ff073a" alt="React" style="border-radius:15px"/>
     <br/>
+    <img src="https://img.shields.io/badge/prisma-171717.svg?style=for-the-badge&logo=prisma&logoColor=ff073a" alt="Prisma" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Mongo-171717.svg?style=for-the-badge&logo=mongodb&logoColor=ff073a" alt="MongoDB" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/SQL-171717.svg?style=for-the-badge&logo=mysql&logoColor=ff073a" alt="MySQL" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/JSON-171717.svg?style=for-the-badge&logo=json&logoColor=ff073a" alt="JSON" style="border-radius:15px"/>
