@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Building+scalable+APIs+with+NestJS+%26+Node.js;Shipping+Web3+%2F+blockchain-integrated+platforms;Full-Stack+Engineer+%7C+React+%2B+TypeScript;Currently+chasing%3A+opportunities+in+%F0%9F%87%A8%F0%9F%87%A6+%26+%F0%9F%87%AA%F0%9F%87%BA;P.S.+there+are+playable+games+below+%F0%9F%95%B9%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Building+scalable+APIs+with+NestJS+%26+Node.js;Shipping+Web3+%2F+blockchain-integrated+platforms;Full-Stack+Engineer+%7C+React+%2B+TypeScript;Currently+chasing%3A+opportunities+in+%F0%9F%87%A8%F0%9F%87%A6+%26+%F0%9F%87%AA%F0%9F%87%BA" alt="Typing SVG" />
 
 </div>
 
@@ -65,21 +65,42 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hadiazt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiazt&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadiazt&theme=tokyonight" alt="GitHub profile summary" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiazt&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadiazt&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadiazt&theme=tokyonight" alt="Top languages by commit" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadiazt&theme=tokyonight" alt="Top languages by repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hadiazt&utcOffset=3&theme=tokyonight" alt="Most productive time of day" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=hadiazt&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 <br/>
 
-## 🏆 Trophies
+## 🎖️ At a Glance
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hadiazt&theme=darkhub&no-frame=true&row=1&column=6" />
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=hadiazt&data=followers,repositories,stars,commits&theme=nautilus" alt="Followers, repos, stars and commits" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/5B8DEF/hadiazt" alt="Contribution chart" width="100%" />
+
 </div>
 
 <br/>
