@@ -57,6 +57,9 @@
 
 <br/>
 
+---
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -92,27 +95,6 @@
 
 <br/>
 
-## 😄 Random Dev Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" />
-
-</div>
-
-<br/>
-
-## ✍️ Publication
-
-> **"Node.JS Architecture and Performance"**
-> 10th National Conference on New Ideas in Technical & Engineering Sciences — Civilica, 2023
-
-<br/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -120,7 +102,7 @@
 <a href="https://linkedin.com/in/hadiazt"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hadiazari30@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=hadiazt&style=for-the-badge&color=5B8DEF&label=PROFILE+VIEWS" />
 
@@ -128,39 +110,17 @@
 
 <br/>
 
-<details>
-<summary align="center">🥚 &nbsp;<i>You made it to the bottom. There is one more thing.</i></summary>
-
-<br/>
-
 <div align="center">
 
-```text
-   ↑ ↑ ↓ ↓ ← → ← → B A
-
-   ACHIEVEMENT UNLOCKED
-   ─────────────────────────────
-   "Read the Whole README"
-
-   Reward: +1 recruiter karma
-   Bonus:  I already like you
-```
 
 **Genuinely though — if you got this far, you are exactly the kind of person I want to work with.**
 Say hi. I answer every message. 👆
 
 </div>
 
-</details>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,100:1F3864&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!--
-  Still reading the source? Respect.
-  Fun fact: this README has zero JavaScript. Every game above is
-  a <details> tag and some markdown. Constraints are fun.
--->
