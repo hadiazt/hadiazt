@@ -20,18 +20,14 @@
 
 ## 🧭 About Me
 
-```yaml
-name: Hadi Azari
-role: Backend-Focused Full-Stack Developer
-focus: Node.js · NestJS · TypeScript · Web3 Integrations
-currently_building: A crypto investment platform (NEXORA) & exploring BC/EU opportunities
-fun_fact: Published a conference paper on Node.js architecture — then kept shipping code anyway
+```json
+{
+  "name" : "Hadi Azari",
+  "role" : "Backend-Focused Full-Stack Developer",
+  "focus": ["Node.js", "NestJS", "TypeScript", "Web3 Integrations"]
+}
 ```
 
-- 🔭 Currently building **NEXORA** — a full-stack Web3 investment platform (NestJS + Prisma + React)
-- 🌐 Comfortable across **Ethereum, Solana, and TRON** ecosystems
-- 📝 Published: *"Node.JS Architecture and Performance"* — 10th National Conference on New Ideas in Technical & Engineering Sciences (Civilica), 2023
-- 🎓 Finishing a Bachelor's in Software Engineering (Feb 2027) — Associate Degree completed with a 15.54/20 GPA
 - 🌱 Open to backend/full-stack roles — remote-friendly, exploring relocation
 
 <br/>
@@ -63,46 +59,7 @@ fun_fact: Published a conference paper on Node.js architecture — then kept shi
 
 <br/>
 
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🪙 NEXORA
-Web3 crypto investment platform with wallet-based auth, automated payouts, and Hyperliquid signal execution.
-
-`NestJS` `Prisma` `React 19` `wagmi/viem`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎫 Token Management System
-Solana/SPL token management platform for issuing and tracking on-chain tokens.
-
-`TypeScript` `Solana Web3.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎲 Betting Bot Platform
-Telegram bot integrated with TRON blockchain for crypto betting operations.
-
-`Telegraf` `TronWeb` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Vanguard Mechanical
-SEO-optimized corporate site for a Canadian HVAC company, built for speed and search visibility.
-
-`React 18` `Tailwind CSS` `Framer Motion`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
