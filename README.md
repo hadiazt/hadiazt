@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=600&lines=Building+scalable+APIs+with+NestJS+%26+Node.js;Shipping+Web3+%2F+blockchain-integrated+platforms;Full-Stack+Engineer+%7C+React+%2B+TypeScript;Currently+chasing%3A+opportunities+in+%F0%9F%87%A8%F0%9F%87%A6+%26+%F0%9F%87%AA%F0%9F%87%BA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Building+scalable+APIs+with+NestJS+%26+Node.js;Shipping+Web3+%2F+blockchain-integrated+platforms;Full-Stack+Engineer+%7C+React+%2B+TypeScript;Currently+chasing%3A+opportunities+in+%F0%9F%87%A8%F0%9F%87%A6+%26+%F0%9F%87%AA%F0%9F%87%BA;P.S.+there+are+playable+games+below+%F0%9F%95%B9%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -27,8 +27,6 @@
   "focus": ["Node.js", "NestJS", "TypeScript", "Web3 Integrations"]
 }
 ```
-
-- 🌱 Open to backend/full-stack roles — remote-friendly, exploring relocation
 
 <br/>
 
@@ -59,7 +57,7 @@
 
 <br/>
 
-
+---
 
 <br/>
 
@@ -86,10 +84,26 @@
 
 <br/>
 
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
+
+> The snake eats my commits. The commits keep coming. It is a fair fight so far.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/hadiazt/hadiazt/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+<br/>
+
+## 😄 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" />
 
 </div>
 
@@ -115,8 +129,41 @@
 
 </div>
 
+<br/>
+
+<details>
+<summary align="center">🥚 &nbsp;<i>You made it to the bottom. There is one more thing.</i></summary>
+
+<br/>
+
+<div align="center">
+
+```text
+   ↑ ↑ ↓ ↓ ← → ← → B A
+
+   ACHIEVEMENT UNLOCKED
+   ─────────────────────────────
+   "Read the Whole README"
+
+   Reward: +1 recruiter karma
+   Bonus:  I already like you
+```
+
+**Genuinely though — if you got this far, you are exactly the kind of person I want to work with.**
+Say hi. I answer every message. 👆
+
+</div>
+
+</details>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,100:1F3864&height=100&section=footer" width="100%"/>
 
 </div>
+
+<!--
+  Still reading the source? Respect.
+  Fun fact: this README has zero JavaScript. Every game above is
+  a <details> tag and some markdown. Constraints are fun.
+-->
